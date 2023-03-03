@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Eu sou o Bruno Rocha de Freitas e atualmente sou Analista de Sistemas Júnior em uma grande empresa de varejo/atacado do meu Estado.
+Eu sou o Bruno e atualmente sou Analista de Sistemas Júnior em uma grande empresa de varejo/atacado do meu Estado.
 
 Formado em Sistemas de Informação e no momento estou focado em estudos para me tornar um Desenvolvedor FullStack, onde estou cursando o DevClub - Full Stack - PRO.
 
@@ -13,7 +13,7 @@ Acesse o meu perfil no Linkedin:
 ---------------------------------------------------------------------------------------------------------------------------
 ### Hi there 👋
 
-My name is Bruno Rocha Freitas and nowadays i'm working as Jr. System Analist in a big company of wholesale and retail of my state.
+My name is Bruno and nowadays i'm working as Jr. System Analist in a big company of wholesale and retail of my state.
 
 I'm graduated in Information Systems and at the moment i'm focused in studies to became a Full Stack developer. Nowadays i'm studying in the DevClub - Full Stack - PRO.
 
