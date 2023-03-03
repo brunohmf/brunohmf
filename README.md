@@ -1,25 +1,25 @@
 ### Olá 👋
 
-Eu sou o Bruno e atualmente sou Analista de Sistemas Júnior em uma grande empresa de varejo/atacado do meu Estado.
+<p>Eu sou o Bruno e atualmente sou Analista de Sistemas Júnior em uma grande empresa de varejo/atacado do meu Estado.</p>
 
-Formado em Sistemas de Informação e no momento estou focado em estudos para me tornar um Desenvolvedor FullStack, onde estou cursando o DevClub - Full Stack - PRO.
+<p>Formado em Sistemas de Informação e no momento estou focado em estudos para me tornar um Desenvolvedor FullStack, onde estou cursando o DevClub - Full Stack - PRO.</p>
 
-Estou aprendendo e criando projetos com: HTML5, CSS3, JavaScript, Node, React, PostgreSQL e MongoDB além de Git e GitHub.
+<p>Estou aprendendo e criando projetos com: HTML5, CSS3, JavaScript, Node, React, PostgreSQL e MongoDB além de Git e GitHub.</p>
 
-Acesse o meu perfil no Linkedin: 
+<p>Acesse o meu perfil no Linkedin:</p>
 <br>
 <a href="https://www.linkedin.com/in/brunorochadefreitas/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ---------------------------------------------------------------------------------------------------------------------------
 ### Hi there 👋
 
-My name is Bruno and nowadays i'm working as Jr. System Analist in a big company of wholesale and retail of my state.
+<p>My name is Bruno and nowadays i'm working as Jr. System Analist in a big company of wholesale and retail of my state.</p>
 
-I'm graduated in Information Systems and at the moment i'm focused in studies to became a Full Stack developer. Nowadays i'm studying in the DevClub - Full Stack - PRO.
+<p>I'm graduated in Information Systems and at the moment i'm focused in studies to became a Full Stack developer. Nowadays i'm studying in the DevClub - Full Stack - PRO.</p>
 
-I'm learning and creating some projects with the tecnologies and programming languages: HTML5, CSS3, JavaScript, Node, React, PostgreSQL, MongoDB, Git and GitHub.
+<p>I'm learning and creating some projects with the tecnologies and programming languages: HTML5, CSS3, JavaScript, Node, React, PostgreSQL, MongoDB, Git and GitHub.</p>
 
-Access my profile on Linkedin: 
+<p>Access my profile on Linkedin:</p>
 <br>
 <a href="https://www.linkedin.com/in/brunorochadefreitas/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
